@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi there 👋
+I'm Burcu! I'm a junior software engineer with experience in Software Quality Assurance Engineering (SQAE). My last QA position was on Bank of America QA Automation and Regression team. Currently, I'm learning full stack web development in BloomTech Academy.
+
 
 <!--
 **BurcuGozal/BurcuGozal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
